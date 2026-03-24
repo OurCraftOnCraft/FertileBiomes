@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="fertilebiomes"
+version="1.0.0"
+displayName="Fertile Biomes"
+description="Modifies natural growth rate of food crops based on deterministic hash of crop, biome, and config salt"
+
+[[dependencies.fertilebiomes]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+
+[[dependencies.fertilebiomes]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+

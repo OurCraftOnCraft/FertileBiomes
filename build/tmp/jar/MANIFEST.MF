@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: fertilebiomes
+Specification-Vendor: brooswit
+Specification-Version: 1
+Implementation-Title: fertilebiomes
+Implementation-Version: 1.0.0
+Implementation-Vendor: brooswit
+Implementation-Timestamp: 2026-01-03T17:50:46-0800
+
